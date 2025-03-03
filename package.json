@@ -1,0 +1,21 @@
+{
+  "name": "custom-github-dark",
+  "displayName": "Custom GitHub Dark",
+  "description": "created by HimeshPremji available on Github",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Himesh",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Himesh-color-theme.json"
+      }
+    ]
+  }
+}
