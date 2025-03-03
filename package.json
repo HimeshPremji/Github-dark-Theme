@@ -1,7 +1,7 @@
 {
-  "name": "custom-github-dark",
-  "displayName": "Custom GitHub Dark",
-  "description": "created by HimeshPremji available on Github",
+  "name": "styled_code",
+  "displayName": "Styled Code",
+  "description": "created by Himesh Premji profile available on Github",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Himesh",
+        "label": "Default",
         "uiTheme": "vs-dark",
-        "path": "./themes/Himesh-color-theme.json"
+        "path": "./themes/Default-color-theme.json"
       }
     ]
   }
